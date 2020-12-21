@@ -1,3 +1,4 @@
+#Check point Level 3:
 class Solution:
     def numfun1(self, A, B):
         i,j,sequences,sum_sequence = 0,0,0,A[0]
