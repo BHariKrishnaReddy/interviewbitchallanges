@@ -1,4 +1,4 @@
-/*
+'''
 Given a singly linked list, modify the value of first half nodes such that :
 
     1.1st node’s new value = the last node’s value - first node’s current value
@@ -20,7 +20,7 @@ as
 
 for first node, 5 - 1 = 4
 for second node, 4 - 2 = 2
-*/
+'''
 
 # Definition for singly-linked list.
 # class ListNode:
