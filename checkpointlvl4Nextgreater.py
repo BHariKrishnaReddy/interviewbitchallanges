@@ -1,4 +1,4 @@
-/*
+'''
 Given an array, find the next greater element G[i] for every element A[i] in the array. The Next greater Element for an element A[i] is the first greater element on the right side of A[i] in array.
 More formally,
 
@@ -18,7 +18,7 @@ Example 2:
 
 Input : A : [3, 2, 1]
 Output : [-1, -1, -1]
-*/
+'''
 
 
 def getGth(A, st):
